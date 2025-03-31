@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hello, I'm ReginYuan 👋
 
+[点击这里访问我之前的github主页](https://github.com/ReginYuan)
 
 # 💡skill
 

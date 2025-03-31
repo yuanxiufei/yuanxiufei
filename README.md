@@ -9,6 +9,7 @@ ReginYuan/ReginYuan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ### Hello, I'm ReginYuan 👋
+### 因为账号reginyuan账号无法登录，请关注我最新的yuanxiufei这个账号
 
 [点击这里访问我之前的github主页](https://github.com/ReginYuan)
 
